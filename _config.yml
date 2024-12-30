@@ -7,34 +7,18 @@ version: 2
 
 # Personal info
 name: 신종하
-title: 유니티 클라이언트 & 게임 서버 프로그래머 | C# 백엔드 프로그래머
+title: 유니티 클라이언트/게임 서버 엔지니어 | .NET 백엔드 엔지니어
 email: twglhk@gmail.com
 website: https://github.com/twglhk
-개발 노트: https://roamresearch.com/#/app/John_Development_Graph/page/GI5CKkpQt
 
 # Dark Mode (true/false/never)
-darkmode: false
-
-# Social links
-twitter_username: facespics
-github_username: sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+darkmode: never
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: Roam Research
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://roamresearch.com/#/app/John_Development_Graph/page/GI5CKkpQt
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -49,69 +33,157 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  - Unity, C#, AWS를 다루는 3년차 게임 엔지니어로서, 2024년 출시한  모바일 온라인 스포츠 게임 [WILD BOWL : ZOOPORTS]의 클라이언트, 게임 서버, AWS 백엔드 개발을 담당하였으며, 2025년 스팀 출시 예정작인 인디게임 [KEEPING NIGHT]에서 클라이언트 및 게임 디자인을 담당하였습니다.
+  - 2020년 [WILD BOWL : ZOOPORTS] 프로젝트에 참여 이후 2022년 주식회사 와드게임즈의 공동 대표로 재직하며 프로젝트 및 비즈니스를 리드하였고, 4개의 주요 사업 지원 선정에 공헌하였습니다.
+  - <mark>재미있는 게임</mark>, <mark>완성도 높은 게임</mark>, <mark>좋은 팀원들과 함께 만드는 게임</mark> 이라는 가치를 추구하며, 게임 개발자로서의 성장을 지속하고 있습니다. 
 
 content:
-- title: Projects # Title for the section
-  layout: list # Type of content section (list/text)
-  content:
-  - layout: top-middle
-    title: Super awesome project
-    link: github.com/sproogen
-    # link_text: Project Website
-    additional_links:
-    - title: sproogen/modern-resume-theme
-      icon: fab fa-github
-      url: github.com/sproogen/modern-resume-theme
-    # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-    #   icon: fab fa-github
-    #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-    quote: >
-      This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-    description: | # this will include new lines to allow paragraphs
-      I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
 - title: Experience # Title for the section
   layout: list # Type of content section (list/text)
   content:
   - layout: left
-    title: The Boring Company
-    link: boringcompany.com
-    # link_text: boringcompany.com
-    sub_title: Senior Network System Administrator
-    caption: November 2017 - Present
+    title: FXF Studio
+    link: x.com/KeepingNight24
+    sub_title: 대표 이사, 유니티 클라이언트 개발자, 게임 디자이너
+    caption: 2024.9 - 현재
     quote: >
-      Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+      2D 탑다운 슈팅 인디 게임 [KEEPING NIGHT] 개발 및 출시 준비
     description: | # this will include new lines to allow paragraphs
-      Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+      - 유니티 클라이언트 기반의 2D 탑다운 게임 플레이 및 NPC 플레이어 설계 및 구현
+      - 게임 플레이 데이터 분석 및 밸런스 조정
+      - 인게임 레벨 디자인 및 플레이 테스트 주도
+      - Steam 플랫폼 출시 준비 및 마케팅 전략 수립
+
+  - layout: left
+    title: 와드게임즈
+    link: wardgames.info
+    # link_text: boringcompany.com
+    sub_title: 공동 대표, 유니티 클라이언트/게임 서버 개발자, C# 백엔드 개발자
+    caption: 2022.5 - 2024.7
+    quote: >
+      누적 다운로드 1000+, 온라인 스포츠 게임 [WILD BOWL : ZOOPORTS] 출시
+    description: | # this will include new lines to allow paragraphs
+      - 유니티 클라이언트 및 데디케이티드 게임 서버 설계 및 구현
+      - 아웃 게임 컨텐츠 백엔드 구현 (AWS)
+      - 데디케이티드 서버 호스팅 및 라이브 서비스 작업 (AWS)
+      - 온라인 매칭 시스템 백엔드 아키텍쳐 설계 및 구현 (AWS)
+      - iOS IAP 관련 C# 커스텀 백엔드 라이브러리 개발
+
+- title: 역량 # Title for the section
+  layout: list # Type of content section (list/text)
+  content:
+  - layout: top-middle
+    title: Unity 2D/3D 게임 클라이언트 설계 및 구현
+    description: | # this will include new lines to allow paragraphs
+      - 유니티 엔진을 이용한 2개의 게임 출시 경험
+      - 행동트리를 이용한 NPC 플레이어 AI 설계 및 구현
+      - 유니티 UGUI, MVP 패턴울 이용한 UI/UX 설계 및 구현
+      - 개체 지향 프로그래밍(OOP)을 통한 유지보수성 높은 코드 작성
+
+  - layout: top-middle
+    title: Unity HLAPI를 사용한 데디케이티드 게임 서버 설계 및 구현
+    description: | # this will include new lines to allow paragraphs
+      - Mirage 오픈 소스 네트워크 라이브러리를 이용한 클라이언트 - 권한 서버 모델 구현
+      - Photon PUN에서 Mirage 라이브러리로의 서버 포팅 작업
+      - 클라이언트 사이드 예측 (Client Side Prediction) 기술로 멀티플레이 게임 품질 개편
+
+  - layout: top-middle
+    title: AWS 및 .NET을 이용한 게임 서버 백엔드 설계 및 구현
+    description: | # this will include new lines to allow paragraphs
+      - AWS GameLift 서비스를 이용한 데디케이티드 게임 서버 호스팅
+      - 서버리스 아키텍쳐를 이용한 게임 컨텐츠 및 매칭 시스템 백엔드 구현
+      - C# .NET을 이용한 iOS IAP 관련 커스텀 백엔드 라이브러리 개발
+
+  - layout: top-middle
+    title: Azure DevOps를 이용한 프로젝트 인프라 관리
+    description: | # this will include new lines to allow paragraphs
+      - Azure Pipeline을 이용한 AWS Lambda 빌드 및 배포 인프라 구축
+      - Azure Pipeline과 VM을 이용한 Unity 프로젝트 빌드 인프라 구축
+
+  - layout: top-middle
+    title: 프로젝트 리딩 및 비즈니스 리더십
+    description: | # this will include new lines to allow paragraphs
+      - 2022년 주식회사 와드게임즈 공동 대표로, [Wild Bowl : Zooports]의 4개의 정부 지원사업 (2021 중기부 생애최초청년창업지원사업, 2022 문체부 인디게임 공모전, 2022 중기부 예비창업패키지, 2022 문체부 국제게임쇼 - Gamescom 공동관 지원사업) 선정 기여 및 팀 운영
+      - 2024년 인디게임 [KEEPING NIGHT] 프로젝트 매니징
+
+- title: Skills # Title for the section
+  layout: list # Type of content section (list/text)
+  content:
+  - layout: top-middle
+    quote: >
+      현재 업무에 사용 중이거나 사용한 경험이 있는 기술들입니다.
+
+  - layout: left
+    title: Game Client / Game Server
+    description: | # this will include new lines to allow paragraphs
+      - Unity 2D/3D, UGUI, Shader Graph, Amplify Shader Editor
+      - Mirage, Mirror, Photon PUN, Client Side Prediction
+      - Addressable, Unity Cloud Build, Plastic SCM
+      - VS, VS Code, Rider
+
+  - layout: left
+    title: Backend & DevOps
+    description: | # this will include new lines to allow paragraphs
+      - .NET6
+      - AWS GameLift, AWS Lambda, AWS DynamoDB, AWS Route53, AWS API Gateway(RESTful API, Weabsocket), AWS EventBridge, AWS IAM, AWS ElasticCache, REDIS, AWS CloudWatch, AWS Cognito, AWS S3, AWS SQS, AWS SNS, AWS EC2
+      - Azure DevOps, Azure Pipeline, Azure VM, GitHub
+      - iOS, Steam
 
 - title: Education # Title for the section
   layout: list # Type of content section (list/text)
   content:
-  - layout: left
-    title: Harvard University
-    caption: 2010 - 2013
-    sub_title: BSc Computer Science
+  - layout: top-middle
     quote: >
-      Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+      실무 중심의 CS 교육
+  - layout: left
+    title: POCU 아카데미
+    caption: 2021 - 현재
+    link: pocu.academy/ko
     description: | # this will include new lines to allow paragraphs
-      During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+      - CS 지식의 실무 기본기를 더할 필요성을 느껴 수강 중
+      - C 프로그래밍 (2025.01 ~ 현재)
+      - [개체지향 프로그래밍 및 설계 수료](https://drive.google.com/file/d/1ZMldT-r4-3ZXURQUuHuzTEvu_o61Ur-S/view?usp=sharing) (2023.09 ~ 2023.12)
+      - [어셈블리어 프로그래밍 수료](https://drive.google.com/file/d/1E2awCEVVhOJCFY6K-uqYDRNMwIfG-4wc/view?usp=sharing) (2023.05 ~ 2023.08)
+      - [알고리듬 및 자료구조 수료](https://drive.google.com/file/d/1o2pJC_s4A6k3MnZJTUiYBXyed6Y7_LWM/view?usp=sharing) (2021.05 ~ 2021.08)
 
-      I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  - layout: left
+    title: 동국대학교
+    caption: 2013 - 2019 (중퇴)
+    description: | # this will include new lines to allow paragraphs
+      - 불교학부/컴퓨터공학과 전공
 
-- title: A Little More About Me
+- title: Open Source & Side Projects # Title for the section
+  layout: list # Type of content section (list/text)
+  content:
+  - layout: top-middle
+    quote: >
+      사이드로 진행한 간단한 프로젝트들입니다. 
+  - layout: left
+    title: 영단어 배틀 게임 - 야너두 [2020]
+    link: github.com/twglhk/bic2020-memory-tile
+    quote: >
+      2020 BIC 게임잼 참여작
+    description: | # this will include new lines to allow paragraphs
+      2020 BIC 게임잼에서 약 4일 간 처음 만난 사람들과 팀을 이뤄 영단어를 맞추는 1:1 온라인 게임을 개발. Unity와 Photon PUN을 사용.
+  - layout: left
+    title: 유니티 ENJIN 블록체인 게임 코인 로그인 모듈 [2020]
+    link: github.com/twglhk/Enjin-Unity-sample
+    description: | # this will include new lines to allow paragraphs
+      ENJIN 코인의 인증과 로그인을 유니티에서 쉽게 할 수 있도록 모듈 개발.
+  - layout: left
+    title: LEGO-Game-World-Online (2021) [2021]
+    link: https://github.com/twglhk/LEGO-Game-World-Online
+    description: | # this will include new lines to allow paragraphs
+      유니티에서 레고와 콜라보를 했을 때, 레고로 만든 배를 가지고 포격을 하며 싸우는 온라인 게임 프로젝트를 진행. Mirage 연습용 토이 프로젝트.
+
+- title: 레퍼런스 & 외부 활동
   layout: text
   content: | # this will include new lines to allow paragraphs
-    Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-    - Rock climbing
-    - Gaming
-    - Knitting
-    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-    Look at this cool image  
-    ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    - [개발 위키](https://roamresearch.com/#/app/John_Development_Graph/page/GI5CKkpQt)
+    - [Unity 게임 서버/네트워크 라이브러리 Mirror & Mirage 소개](https://medium.com/wardgames/unity-%EB%A9%80%ED%8B%B0%ED%94%8C%EB%A0%88%EC%9D%B4-%EA%B2%8C%EC%9E%84%EC%9D%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%9C%84%ED%95%9C-mirror-mirage-%EC%86%8C%EA%B0%9C-a74b58bc115f)
+    - [Unity Cinemachine Clearshot 활용 간단한 팁](https://medium.com/wardgames/unity-cinemachine-clearshot-%ED%99%9C%EC%9A%A9-%EA%B0%84%EB%8B%A8%ED%95%9C-%ED%8C%81-a6241103b78)
+    - [Scriptable Object를 이용한 이벤트 처리](https://medium.com/wardgames/unity-scriptable-object%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%B2%98%EB%A6%AC-b689a0c27c46)
+    - [WILD BOWL : ZOOPORTS의 AWS 백엔드 아키텍처](https://drive.google.com/file/d/1AJPHX6oa2cTsm7ZupjPMfzQ9OXdx1mOo/view?usp=sharing)
 
 # Footer
 footer_show_references: true
