@@ -3,4 +3,4 @@
 ---
 
 ## Contents
-- [이력서](twghlk.github.io)
+- [이력서](https://twglhk.github.io/)
