@@ -188,7 +188,8 @@ content:
   layout: text
   content: | # this will include new lines to allow paragraphs
     - [개발 & 학습 위키](https://roamresearch.com/#/app/John_Development_Graph/page/GI5CKkpQt)
-    - [학부생 때 CS 정리하던 블로그](https://blog.naver.com/whdgkks12347)
+    - [미디움 블로그](https://jonghashin.medium.com/)
+    - [학부생 때 CS 정리하던 블로그(~2019)](https://blog.naver.com/whdgkks12347)
     - [WILD BOWL : ZOOPORTS 포트폴리오](https://drive.google.com/file/d/1Sq2IGUYg3Tqs2TfOjjWPOjISFbY-1jLX/view?usp=sharing)
     - [KEEPING NIGHT 포트폴리오](https://drive.google.com/file/d/1YxkyQ9kaZLvggDNQmU5rxoHRw3ONTckf/view?usp=sharing)
     - [기술 및 코드 포트폴리오](https://github.com/twglhk/twglhk.github.io/tree/main/portfolio/Code/Unity)
