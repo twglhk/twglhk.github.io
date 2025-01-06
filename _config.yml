@@ -197,6 +197,7 @@ content:
     - [Unity Scriptable Object를 이용한 이벤트 처리](https://medium.com/wardgames/unity-scriptable-object%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%B2%98%EB%A6%AC-b689a0c27c46)
     - [AWS Lambda CI-CD 전략 및 구성 사이드](https://drive.google.com/file/d/1GTOdIRbNwe_6qwZidpWGha258lUL-Ov9/view?usp=sharing)
     - [WILD BOWL : ZOOPORTS의 AWS 백엔드 아키텍처](https://drive.google.com/file/d/1AJPHX6oa2cTsm7ZupjPMfzQ9OXdx1mOo/view?usp=sharing)
+    - [[AWS] DynamoDB의 비용을 최적화 하는 Sort Key 디자인 팁](https://medium.com/@jonghashin/aws-dynamodb%EC%9D%98-sort-key-%EB%94%94%EC%9E%90%EC%9D%B8-e748dd7232f7)
 
 # Footer
 footer_show_references: true
