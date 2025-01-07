@@ -85,7 +85,7 @@ content:
     description: | # this will include new lines to allow paragraphs
       - Mirage 오픈 소스 네트워크 라이브러리를 이용한 클라이언트 - 권한 서버 모델 구현
       - Photon PUN에서 Mirage 라이브러리로의 서버 포팅 작업
-      - 클라이언트 사이드 예측 (Client Side Prediction) 기술로 멀티플레이 게임 품질 개편
+      - [클라이언트 사이드 예측 (Client Side Prediction)](https://jonghashin.medium.com/wild-bowl-zooports-%EA%B2%8C%EC%9E%84%EC%97%90%EC%84%9C-client-side-prediction-%EC%A0%81%EC%9A%A9%EA%B8%B0-d10de69a8f97) 기술로 멀티플레이 게임 품질 개편
 
   - layout: top-middle
     title: AWS 및 .NET을 이용한 게임 서버 백엔드 설계 및 구현
