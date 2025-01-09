@@ -91,7 +91,7 @@ content:
     title: AWS 및 .NET을 이용한 게임 서버 백엔드 설계 및 구현
     description: | # this will include new lines to allow paragraphs
       - AWS GameLift 서비스를 이용한 데디케이티드 게임 서버 호스팅
-      - 서버리스 아키텍쳐를 이용한 게임 컨텐츠 및 매칭 시스템 백엔드 구현
+      - [서버리스 아키텍쳐를 이용한 게임 컨텐츠 및 매칭 시스템 백엔드 구현](https://jonghashin.medium.com/aws-gamelift%EC%99%80-serverless%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-%EB%A7%A4%EC%B9%AD-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-1%EB%B6%80-d947e6a4ca23)
       - C# .NET을 이용한 iOS IAP 관련 커스텀 백엔드 라이브러리 개발
 
   - layout: top-middle
