@@ -9,16 +9,20 @@ version: 2
 name: 신종하
 title: 유니티 클라이언트/게임 서버 엔지니어 | .NET 백엔드 엔지니어
 email: twglhk@gmail.com
-website: https://github.com/twglhk
+website: jonghashin.medium.com
 
 # Dark Mode (true/false/never)
 darkmode: never
 
 # Additional icon links
 additional_links:
-- title: Roam Research
+- title: Medium Blog
   icon: fas fa-globe
-  url: https://roamresearch.com/#/app/John_Development_Graph/page/GI5CKkpQt
+  url: jonghashin.medium.com
+
+- title: Github
+  icon: fab fa-github
+  url: github.com/twglhk
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
