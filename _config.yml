@@ -59,11 +59,11 @@ content:
       - Steam 플랫폼 출시 준비 및 마케팅 전략 수립
 
   - layout: left
-    title: 와드게임즈
+    title: 주식회사 와드게임즈
     link: wardgames.info
     # link_text: boringcompany.com
     sub_title: 공동 대표, 유니티 클라이언트/게임 서버 개발자, C# 백엔드 개발자
-    caption: 2022.5 - 2024.7
+    caption: 2022.05 - 2024.7
     quote: >
       누적 다운로드 1000+, 온라인 스포츠 게임 [WILD BOWL : ZOOPORTS] 출시
     description: | # this will include new lines to allow paragraphs
@@ -72,6 +72,13 @@ content:
       - 데디케이티드 서버 호스팅 및 라이브 서비스 작업 (AWS)
       - [온라인 매칭 시스템 백엔드 아키텍쳐 설계 및 구현 (AWS)](https://medium.com/@jonghashin/aws-gamelift%EC%99%80-serverless%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-%EB%A7%A4%EC%B9%AD-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-1%EB%B6%80-d947e6a4ca23)
       - iOS IAP 관련 C# 커스텀 백엔드 라이브러리 개발
+
+  - layout: left
+    title: 팀 와드게임즈
+    sub_title: 유니티 클라이언트/게임 서버 개발자
+    caption: 2020.02 - 2022.04
+    description: | # this will include new lines to allow paragraphs
+      - 유니티 클라이언트 및 데디케이티드 게임 서버 설계 및 구현
 
 - title: 역량 # Title for the section
   layout: list # Type of content section (list/text)
